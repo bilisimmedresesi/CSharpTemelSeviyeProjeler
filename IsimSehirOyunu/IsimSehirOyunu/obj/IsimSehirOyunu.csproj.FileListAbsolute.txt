@@ -1,0 +1,10 @@
+C:\Users\ERKAN\Documents\Visual Studio 2005\Projects\IsimSehirOyunu\IsimSehirOyunu\obj\Debug\IsimSehirOyunu.exe
+C:\Users\ERKAN\Documents\Visual Studio 2005\Projects\IsimSehirOyunu\IsimSehirOyunu\obj\Debug\IsimSehirOyunu.pdb
+C:\Users\ERKAN\Documents\Visual Studio 2005\Projects\IsimSehirOyunu\IsimSehirOyunu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ERKAN\Documents\Visual Studio 2005\Projects\IsimSehirOyunu\IsimSehirOyunu\bin\Release\IsimSehirOyunu.exe
+C:\Users\ERKAN\Documents\Visual Studio 2005\Projects\IsimSehirOyunu\IsimSehirOyunu\bin\Release\IsimSehirOyunu.pdb
+C:\Users\ERKAN\Documents\Visual Studio 2005\Projects\IsimSehirOyunu\IsimSehirOyunu\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ERKAN\Documents\Visual Studio 2005\Projects\IsimSehirOyunu\IsimSehirOyunu\obj\Release\IsimSehirOyunu.exe
+C:\Users\ERKAN\Documents\Visual Studio 2005\Projects\IsimSehirOyunu\IsimSehirOyunu\obj\Release\IsimSehirOyunu.pdb
+C:\Users\ERKAN\Documents\Visual Studio 2005\Projects\IsimSehirOyunu\IsimSehirOyunu\bin\Debug\IsimSehirOyunu.exe
+C:\Users\ERKAN\Documents\Visual Studio 2005\Projects\IsimSehirOyunu\IsimSehirOyunu\bin\Debug\IsimSehirOyunu.pdb
