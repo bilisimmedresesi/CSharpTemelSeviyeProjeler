@@ -1,0 +1,7 @@
+C:\Users\ERKAN\Documents\SharpDevelop Projects\HesapMakinasi\HesapMakinasi\bin\Debug\HesapMakinasi.exe
+C:\Users\ERKAN\Documents\SharpDevelop Projects\HesapMakinasi\HesapMakinasi\bin\Debug\HesapMakinasi.pdb
+C:\Users\ERKAN\Documents\SharpDevelop Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.csprojResolveAssemblyReference.cache
+C:\Users\ERKAN\Documents\SharpDevelop Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.exe
+C:\Users\ERKAN\Documents\SharpDevelop Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.pdb
+C:\Users\ERKAN\Documents\SharpDevelop Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.MainForm.resources
+C:\Users\ERKAN\Documents\SharpDevelop Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.csproj.GenerateResource.Cache
