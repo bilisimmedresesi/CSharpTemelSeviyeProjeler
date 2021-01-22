@@ -42,7 +42,7 @@ namespace SayiYazi
                 else if (okunanVeri.Length == 2)
                     sonuc = onlarDizisi[sayi1] + birlerDizisi[sayi2] + basamakYaziyla + sonuc;
                 else
-                    sonuc = (birlerDizisi[sayi1] + basamakYaziyla + sonuc).Replace("BirBin","Bin");
+                    sonuc = (birlerDizisi[sayi1] + basamakYaziyla).Replace("BirBin","Bin") + sonuc;
             }
             label1.Text = sonuc.Replace("BirYüz", "Yüz");
         }
